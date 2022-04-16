@@ -13,9 +13,9 @@
 
 ## Usage
 
-Type part of a snippet, press enter, and the snippet unfolds.
+Press Ctrl+Space (Windows, Linux) or Cmd+Space (macOS) to activate snippets from within the editor.
 
-Alternatively, press Ctrl+Space (Windows, Linux) or Cmd+Space (macOS) to activate snippets from within the editor.
+You can activate snippets using "Insert Snippet" in the Command Palette.
 
 
 | Snippet                      |  Purpose                                                             |
@@ -33,13 +33,12 @@ Alternatively, press Ctrl+Space (Windows, Linux) or Cmd+Space (macOS) to activat
 1. Reload Visual Studio Code
 
 
-## Release Notes
+## License
 
-Users appreciate release notes as you update your extension.
+MIT License, refer to license file.
+## Release History
 
-### 1.0.0
-
-Initial release of ADR Snippets.
+To view the release history, please check [Changelog](https://github.com/akamud/vscode-theme-onedark/blob/master/CHANGELOG.md).
 
 
 

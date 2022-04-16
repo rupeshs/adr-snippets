@@ -1,0 +1,25 @@
+{
+    " Architecture Decision Record ": {
+        "prefix": "adr",
+        "body": [
+            "# 1. Record architecture decisions\n",
+            "Date: $CURRENT_YEAR-$CURRENT_MONTH-${CURRENT_DATE}\n",
+            "## Status\n",
+            "Proposed\n",
+            "## Context\n",
+            "We need to record the architectural decisions made on this project.\n",
+            "## Decision\n",
+            "We will use Architecture Decision Records, as [described by Michael Nygard](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions).\n",
+            "## Consequences",
+            "See Michael Nygard's article, linked above.\n",
+        ],
+        "description": "Insert Architecture Decision record"
+    },
+    " Architecture Decision Record Status ": {
+        "prefix": "adr-status",
+        "body": [
+            "${1|Proposed,Accepted,Rejected,Superseded|}",
+        ],
+        "description": "Add Architecture Decision record status"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "adr-snippets",
+    "displayName": "ADR Snippets",
+    "description": "Architecture Decision Records snippets by Rupesh Sreeraman",
+    "version": "0.1.0",
+    "icon": "images/adr-icon.png",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "markdown",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}

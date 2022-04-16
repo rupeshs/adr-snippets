@@ -9,7 +9,7 @@
 
  * Markdown (.md)
 
-![Use Extension](images/adr-snippets-usage.gif)
+![Extension Usage](https://raw.githubusercontent.com/rupeshs/adr-snippets/main/images/adr-snippets-usage.gif)
 
 ## Usage
 

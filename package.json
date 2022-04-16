@@ -1,9 +1,14 @@
 {
     "name": "adr-snippets",
     "displayName": "ADR Snippets",
-    "description": "Architecture Decision Records snippets by Rupesh Sreeraman",
+    "description": "Architecture Decision Records snippets",
     "version": "0.1.0",
     "icon": "images/adr-icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rupeshs/adr-snippets.git"
+    },
+    "license": "MIT",
     "engines": {
         "vscode": "^1.66.0"
     },

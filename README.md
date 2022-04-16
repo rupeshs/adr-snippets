@@ -1,4 +1,4 @@
-# adr-snippets README
+# Architecture Decision Records(ADR) Snippets for VS Code
 
  This extension contains snippets for Architecture Decision Records(ADR).
  Helps to create ADR basic document, after that we can edit title or any other part of the document.

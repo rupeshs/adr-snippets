@@ -1,5 +1,6 @@
 {
     "name": "adr-snippets",
+    "publisher": "rupeshsreeraman",
     "displayName": "ADR Snippets",
     "description": "Architecture Decision Records snippets",
     "version": "0.1.0",

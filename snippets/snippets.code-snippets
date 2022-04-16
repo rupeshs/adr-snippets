@@ -3,7 +3,7 @@
         "prefix": "adr",
         "body": [
             "# 1. Record architecture decisions\n",
-            "Date: $CURRENT_YEAR-$CURRENT_MONTH-${CURRENT_DATE}\n",
+            "Date: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE\n",
             "## Status\n",
             "Proposed\n",
             "## Context\n",

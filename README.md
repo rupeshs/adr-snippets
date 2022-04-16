@@ -38,7 +38,7 @@ You can activate snippets using "Insert Snippet" in the Command Palette.
 MIT License, refer to license file.
 ## Release History
 
-To view the release history, please check [Changelog](https://github.com/akamud/vscode-theme-onedark/blob/master/CHANGELOG.md).
+To view the release history, please check [Changelog](https://github.com/rupeshs/adr-snippets/blob/main/CHANGELOG.md).
 
 
 

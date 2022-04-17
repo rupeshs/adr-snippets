@@ -3,7 +3,7 @@
     "publisher": "rupeshsreeraman",
     "displayName": "ADR Snippets",
     "description": "Architecture Decision Records snippets",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "icon": "images/adr-icon.png",
     "repository": {
         "type": "git",
